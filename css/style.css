@@ -1,0 +1,145 @@
+.primary{
+	border:none;
+	background-color:#7979da;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+	
+}
+.primary:hover{
+	background-color:#2626b0;
+	transition:0.5s;
+}
+.secondary{
+	border:none;
+	background-color:#9b9bad;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+	
+}
+.secondary:hover{
+	background-color:#54545b;
+	transition:0.5s;
+}
+.success{
+	border:none;
+	background-color:#388e3c;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+	
+}
+.success:hover{
+	background-color:#273f28;
+	transition:0.5s;
+}
+.danger{
+	border:none;
+	background-color:#d56188;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+	
+}
+.danger:hover{
+	background-color:#852646;
+	transition:0.5s;
+}
+.warning{
+	border:none;
+	background-color:#ffee58;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+	
+}
+.warning:hover{
+	background-color:#f9a825;
+	transition:0.5s;
+}
+.info{
+	border:none;
+	background-color:#80deea;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+	
+}
+.info:hover{
+	background-color:#0097a7;
+	transition:0.5s;
+}
+.light{
+	border:none;
+	background-color:transparent;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+}
+.light:hover{
+	background-color:#eeeeee;
+	transition:0.5s;
+}
+.dark{
+	border:none;
+	background-color:#0e0e0f;
+	color:white;
+	width:100px;
+	padding:10px;
+	transition:05s;
+	border-radius:5px;
+	cursor:pointer;
+	font-weight:bold;
+	
+}
+.dark:hover{
+	background-color:#2b2b2f;
+	color:white;
+	transition:0.5s;
+	cursor:pointer;
+}
+.link  {
+	border:none;
+	background-color:white;
+	cursor:pointer;
+	color:#26c6da;
+	transition:0.5s;
+	
+}
+.link:hover{
+	cursor:pointer;
+	color:#00838f;
+	transition:0.5s;
+}
+
+			
+	
